@@ -91,11 +91,10 @@
 
   <!-- donen cumleler -->
   <text x="60" y="186" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#E6EDF3" opacity="1">Backend geliştirici · ASP.NET Core
-    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.293;0.333;0.960;1" dur="10.5s" repeatCount="indefinite"/>
-  </text>
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.46;0.5;0.96;1" dur="7s" repeatCount="indefinite"/>
   </text>
   <text x="60" y="186" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#E6EDF3" opacity="0">İşaret dilini metne çeviren bir sistem geliştiriyorum
-    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.667;0.707;0.960;1.000;1" dur="10.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.5;0.54;0.96;1" dur="7s" repeatCount="indefinite"/>
   </text>
 
   <text x="60" y="236" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#8B949E">Bilgisayar Mühendisliği <tspan fill="#E63946">·</tspan> Balıkesir Üniversitesi</text>
