@@ -48,11 +48,11 @@ Netflix, Spotify, faturalar gibi düzenli ödemeleri takip edip aylık/yıllık 
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
+  <img src="./profile-summary-card-output/swift/0-profile-details.svg" width="100%" />
 </p>
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
-  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/swift/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/swift/1-repos-per-language.svg" width="49%" />
 </p>
 
 <!-- YILAN ANİMASYONU (profile.yml workflow'u gerekli) -->
