@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fahriye-elif-dikci-55b4a62b3"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[https://fahriye-elif-dikci.vercel.app](https://fahriye-elif-dikci.vercel.app/)"><img src="https://img.shields.io/badge/Portfolyo-0D1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://fahriye-elif-dikci.vercel.app"><img src="https://img.shields.io/badge/Portfolyo-0D1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:elifdikci52@gmail.com"><img src="https://img.shields.io/badge/E--posta-E63946?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
