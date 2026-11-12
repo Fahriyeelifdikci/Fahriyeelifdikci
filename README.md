@@ -1,11 +1,4 @@
-<!-- BAŞLIK: header tasarımı hazır olunca buraya gelecek -->
-
-<h1 align="center">Merhaba, ben Fahriye 👋</h1>
-
-<p align="center">
-  <b>Bilgisayar Mühendisliği son sınıf öğrencisi · Backend (.NET) · Yapay Zekâ</b><br>
-  Projelerimi uçtan uca geliştiriyorum: veritabanından arayüze, şimdi de görüntü işleme modellerine.
-</p>
+<p align="center"><img src="./header.svg" width="100%" alt="Merhaba, ben Fahriye"></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fahriye-elif-dikci-55b4a62b3"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -34,7 +27,7 @@ Netflix, Spotify, faturalar gibi düzenli ödemeleri takip edip aylık/yıllık 
 ### 🛠️ Kullandığım Teknolojiler
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,react,git,github,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,react,bootstrap,git,github,vscode&perline=9" />
 </p>
 
 <p align="center">
@@ -55,11 +48,14 @@ Netflix, Spotify, faturalar gibi düzenli ödemeleri takip edip aylık/yıllık 
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fahriyeelifdikci&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946&text_color=FFFFFF&locale=tr" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahriyeelifdikci&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=E63946&text_color=FFFFFF&locale=tr" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" />
 </p>
 
-<!-- YILAN ANİMASYONU (snake.yml workflow'u gerekli) -->
+<!-- YILAN ANİMASYONU (profile.yml workflow'u gerekli) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fahriyeelifdikci/Fahriyeelifdikci/output/github-snake-dark.svg" />
